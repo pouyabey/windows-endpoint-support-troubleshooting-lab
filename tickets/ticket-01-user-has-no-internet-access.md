@@ -77,17 +77,5 @@ nslookup lab.local
 gpupdate /force
 ```
 
-Screenshots
-	1.	Baseline IP Configuration
-	2.	Baseline Ping to Domain Controller
-	3.	Incorrect Static IP Settings
-	4.	Wrong Subnet Shown in ipconfig
-	5.	Failed Ping to Domain Controller
-	6.	Failed DNS Lookup
-	7.	Corrected Static IP Settings
-	8.	Resolved IP Configuration
-	9.	Successful Ping to Domain Controller
-	10.	Successful DNS Lookup
-	11.	Successful Group Policy Upda
 
 
