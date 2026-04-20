@@ -74,9 +74,9 @@ sc query spooler
 
 ![Printing failure confirmed](../screenshots/ticket-04-printing-failure-confirmed.png)
 
-### 4. Print Queue Review
+### 4. Print Spooler Status Check
 
-![Print queue review showing printer status and queued jobs](../screenshots/ticket-04-print-queue-review.png)
+![Print Spooler status check using sc query spooler](../screenshots/ticket-04-sc-query-spooler-status.png)
 
 ### 5. Print Spooler Restarted Successfully
 
