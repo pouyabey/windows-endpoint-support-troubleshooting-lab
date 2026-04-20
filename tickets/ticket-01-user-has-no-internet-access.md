@@ -1,4 +1,4 @@
-# Ticket 02: User Has No Internet Access / Network Connectivity Issue
+# Ticket 01: User Has No Internet Access / Network Connectivity Issue
 
 ## User Report
 
@@ -78,6 +78,56 @@ ping DC01
 nslookup lab.local
 gpupdate /force
 ```
+
+## Screenshots
+
+### 1: IP Configuration and Connectivity Failure
+
+![IP configuration showing wrong subnet with failed Domain Controller ping and DNS lookup](../screenshots/ticket-01-ipconfig-connectivity-failure.png)
+
+### 2. Baseline Ping to Domain Controller
+
+![Baseline ping to Domain Controller](../screenshots/ticket-02-baseline-ping-dc.png)
+
+### 3. Incorrect Static IP Settings
+
+![Incorrect static IP settings](../screenshots/ticket-02-incorrect-static-ip.png)
+
+### 4. IP Configuration and Connectivity Failure
+
+![IP configuration and connectivity failure](../screenshots/ticket-02-ipconfig-connectivity-failure.png)
+
+### 5. Corrected Static IP Settings
+
+![Corrected static IP settings](../screenshots/ticket-02-correct-static-ip.png)
+
+### 6. Resolved IP Configuration
+
+![Resolved IP configuration](../screenshots/ticket-02-ipconfig-resolved.png)
+
+### 7. Successful Ping to Domain Controller
+
+![Successful ping to Domain Controller](../screenshots/ticket-02-ping-dc-success.png)
+
+### 8. Successful DNS Lookup
+
+![Successful DNS lookup](../screenshots/ticket-02-nslookup-success.png)
+
+### 9. Successful Group Policy Update
+
+![Successful Group Policy update](../screenshots/ticket-02-gpupdate-success.png)
+
+## Skills Demonstrated
+
+- Windows network troubleshooting
+- Host-only virtual network troubleshooting
+- IPv4 configuration review
+- Static IP troubleshooting
+- DNS server verification
+- Domain Controller connectivity testing
+- Command-line diagnostics
+- Group Policy connectivity validation
+- Help Desk ticket documentation
 
 
 
