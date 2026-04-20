@@ -50,13 +50,16 @@ A user cannot access a shared folder. Troubleshooting includes Share Permissions
 
 [View Ticket 03 Documentation](tickets/ticket-03-shared-folder-access-denied.md)
 
-## Planned Ticket Scenarios
-
-The following scenarios are planned for this lab:
 
 ### 4. Printer Not Working
 
 A user cannot print successfully. Troubleshooting includes default printer settings, offline printer status, stuck print queue, and restarting the Print Spooler service.
+
+[View Ticket 04 Documentation](tickets/ticket-04-printer-not-working.md)
+
+## Planned Ticket Scenarios
+
+The following scenarios are planned for this lab:
 
 ### 5. Slow Computer Performance
 
