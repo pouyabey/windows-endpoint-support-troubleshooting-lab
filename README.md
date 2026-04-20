@@ -36,13 +36,16 @@ Troubleshooting a Windows 11 client in a host-only Active Directory lab where an
 
 [View Ticket 01 Documentation](tickets/ticket-01-user-has-no-internet-access.md)
 
-## Planned Ticket Scenarios
-
-The following scenarios are planned for this lab:
 
 ### 2. DNS Resolution Issue
 
 Network connectivity is available, but domain names or server names do not resolve correctly. Troubleshooting includes `nslookup`, DNS server verification, and DNS cache flushing.
+
+[View Ticket 02 Documentation](tickets/ticket-02-dns-resolution-issue.md)
+
+## Planned Ticket Scenarios
+
+The following scenarios are planned for this lab:
 
 ### 3. Shared Folder Access Denied
 
