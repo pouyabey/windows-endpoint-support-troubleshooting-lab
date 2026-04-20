@@ -71,3 +71,22 @@ The issue was verified as resolved by successfully accessing the shared folder f
 dir \\DC01\Finance
 echo Access test successful > \\DC01\Finance\access-test.txt
 ```
+
+## Screenshots
+
+### 1. Access Denied When Opening Shared Folder
+
+![Access denied when opening shared folder](../screenshots/ticket-03-access-denied-finance-share.png)
+
+### 2. User Group Membership Before Fix
+
+![User group membership before fix](../screenshots/ticket-03-user-groups-before-fix.png)
+
+### 3. User Added to IT Security Group
+
+![User added to Finance security group](../screenshots/ticket-03-user-added-to-IT-group.png)
+
+### 4. Shared Folder Access Restored
+
+![Shared folder access restored](../screenshots/ticket-03-shared-folder-access-restored.png)
+
