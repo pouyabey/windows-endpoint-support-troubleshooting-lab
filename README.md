@@ -25,6 +25,7 @@ windows-endpoint-support-troubleshooting-lab/
 │
 └── screenshots/
     └── ticket-01-...
+```
 
     ## Completed Tickets
 
