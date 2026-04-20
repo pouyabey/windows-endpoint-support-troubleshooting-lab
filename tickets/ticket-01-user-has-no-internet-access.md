@@ -81,17 +81,21 @@ gpupdate /force
 
 ## Screenshots
 
-### 1: IP Configuration and Connectivity Failure
+### 1. IP Configuration and Connectivity Failure
 
 ![IP configuration showing wrong subnet with failed Domain Controller ping and DNS lookup](../screenshots/ticket-01-ipconfig-connectivity-failure.png)
 
-### 2. Baseline Ping to Domain Controller
+### 2. Corrected IPv4 and DNS Configuration
 
-![Baseline ping to Domain Controller](../screenshots/ticket-02-baseline-ping-dc.png)
+![Corrected IPv4 address, subnet, and DNS server configuration](../screenshots/ticket-01-corrected-ipv4-dns-configuration.png)
 
-### 3. Incorrect Static IP Settings
+### 3. Post-Fix Connectivity and Domain Verification
 
-![Incorrect static IP settings](../screenshots/ticket-02-incorrect-static-ip.png)
+![Post-fix verification showing DNS cache flush, successful Domain Controller connectivity, DNS resolution, and Group Policy update](../screenshots/ticket-01-1-post-fix-connectivity-domain-verification.png)
+
+![Post-fix verification showing DNS cache flush, successful Domain Controller connectivity, DNS resolution, and Group Policy update](../screenshots/ticket-01-2-post-fix-connectivity-domain-verification.png)
+
+
 
 ### 4. IP Configuration and Connectivity Failure
 
