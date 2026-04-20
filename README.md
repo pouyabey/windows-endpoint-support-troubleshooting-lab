@@ -43,13 +43,16 @@ Network connectivity is available, but domain names or server names do not resol
 
 [View Ticket 02 Documentation](tickets/ticket-02-dns-resolution-issue.md)
 
-## Planned Ticket Scenarios
-
-The following scenarios are planned for this lab:
 
 ### 3. Shared Folder Access Denied
 
 A user cannot access a shared folder. Troubleshooting includes Share Permissions, NTFS Permissions, and Active Directory group membership.
+
+[View Ticket 03 Documentation](tickets/ticket-03-shared-folder-access-denied.md)
+
+## Planned Ticket Scenarios
+
+The following scenarios are planned for this lab:
 
 ### 4. Printer Not Working
 
