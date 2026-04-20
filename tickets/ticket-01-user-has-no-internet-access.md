@@ -46,6 +46,8 @@ The Windows 11 client was unable to communicate with the Domain Controller. The 
 11. Verified DNS resolution for the lab domain.
 12. Confirmed domain communication using `gpupdate /force`.
 
+
+
 ## Commands Used
 
 ```cmd
