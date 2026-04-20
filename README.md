@@ -27,7 +27,8 @@ windows-endpoint-support-troubleshooting-lab/
     └── ticket-01-...
 ```
 
-    ## Completed Tickets
+
+## Completed Tickets
 
 ### 1. User Has No Internet Access / Network Connectivity Issue
 
